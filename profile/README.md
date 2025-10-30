@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ESDM-Consulting/.github/main/profile/ESDM%20LOGO.jpeg" alt="ESDM Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ESDM-Consulting/.github/main/profile/logo_esdm.jpeg" alt="ESDM Logo" width="200"/>
 </p>
 
 # 👋 Bienvenidos a **ESDM CONSULTING**
@@ -23,7 +23,7 @@ Ser una empresa 100% digital, dedicada a automatizar procesos internos y externo
 
 ---
 
-### 💻 Clientes y proyectos destacados
+### 💻 Clientes y proyectos destacados:
 
 | Cliente / Proyecto | Descripción | Tecnologías |
 |------------------|------------|-------------|
@@ -34,7 +34,7 @@ Ser una empresa 100% digital, dedicada a automatizar procesos internos y externo
 | Nyssen Proyectos | Distribución de información de clientes por razón social y carga de documentación | 💻 Angular, Node.js, MongoDB |
 | Corporativo Grijalva | Transporte de paquetería con control eficiente y seguro | 🚚 React, Node.js, SQL Server |
 | Biotel | Gestión de ventas, almacén y compras de productos de telecomunicaciones | 💻 Java, Spring Boot, MySQL |
-| Maderas San Pablo | Tienda en línea para venta de madera, facturación y cobros | 🛒 Shopify, React, Node.js |
+| Maderas San Pablo | Tienda enm línea para venta de madera, facturación y cobros | 🛒 Shopify, React, Node.js |
 | Vikatel | Administración de servicios de pintura electrostática | ⚙️ Laravel, MySQL, Vue.js |
 | Erletel | Administración de procesos de manufactura de metal | ⚙️ .NET, SQL Server, Blazor |
 
@@ -43,8 +43,18 @@ Ser una empresa 100% digital, dedicada a automatizar procesos internos y externo
 ---
 
 ### 🤝 Colaboración y valores
-Promovemos el trabajo en equipo, la innovación constante y la excelencia técnica.  
-Nos apasiona convertir ideas en soluciones reales que generan impacto.
+
+En **ESDM Consulting** creemos que el éxito tecnológico nace del talento, la innovación y la integridad.  
+Nuestro compromiso con la calidad y la mejora continua nos impulsa a construir relaciones sólidas y resultados sostenibles.
+
+- 🤝 **Trabajo en equipo y colaboración**: Fomentamos la comunicación efectiva y la sinergia entre nuestros equipos y clientes.  
+- 💡 **Innovación constante**: Impulsamos la creatividad y la búsqueda de soluciones disruptivas que optimicen los procesos empresariales.  
+- 🧩 **Excelencia técnica**: Adoptamos las mejores prácticas de desarrollo, arquitectura y seguridad en cada proyecto.  
+- 📈 **Orientación a resultados**: Transformamos los objetivos de negocio en soluciones tecnológicas medibles y escalables.  
+- 🌱 **Responsabilidad y ética profesional**: Trabajamos con transparencia y compromiso, priorizando siempre la confianza de nuestros clientes.  
+- 🔍 **Mejora continua**: Evaluamos, aprendemos y evolucionamos con cada desafío, asegurando la calidad y eficiencia de nuestros servicios.  
+
+Nos apasiona **convertir ideas en soluciones tecnológicas de alto impacto**, impulsando el crecimiento digital de cada organización que confía en nosotros.
 
 ---
 
