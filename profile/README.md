@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ESDM-Consulting/.github/main/profile/logo_esdm.jpeg" alt="ESDM Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ESDMConsulting/.github/main/profile/logo_esdm.jpeg" alt="ESDM Logo" width="200"/>
 </p>
 
 # 👋 Bienvenidos a **ESDM CONSULTING**
