@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/ESDMConsulting/.github/main/profile/esdm_logo_2.png" 
        alt="ESDM Logo" 
        width="75%" 
-       height="200"/>
+       height="220"/>
 </p>
+
 # 👋 Bienvenidos a **ESDM CONSULTING**
 
 Somos una organización enfocada en el desarrollo de **soluciones tecnológicas inteligentes** que optimizan los procesos logísticos y administrativos, mediante desarrollos totalmente digitales y orientados a la eficiencia.
