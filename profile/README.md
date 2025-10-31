@@ -1,7 +1,11 @@
+<h1 align="center" style="color:#004AAD;">👋 Bienvenidos a <strong>ESDM CONSULTING</strong></h1>
 
-# 👋 Bienvenidos a **ESDM CONSULTING**
-
-Somos una organización enfocada en el desarrollo de **soluciones tecnológicas inteligentes** que optimizan los procesos logísticos y administrativos, mediante desarrollos totalmente digitales y orientados a la eficiencia.
+<p align="center">
+  Somos una organización enfocada en el desarrollo de 
+  <strong>soluciones tecnológicas inteligentes</strong> 
+  que optimizan los procesos logísticos y administrativos, 
+  mediante desarrollos totalmente digitales y orientados a la eficiencia.
+</p>
 
 <br>
 
@@ -19,12 +23,18 @@ Somos una organización enfocada en el desarrollo de **soluciones tecnológicas 
 
 ---
 
-### 🚀 Nuestra misión
-Ser una empresa 100% digital, dedicada a automatizar procesos internos y externos mediante herramientas informáticas de vanguardia, consolidándonos como aliados estratégicos en el crecimiento de nuestros clientes.
+<h2 align="center" style="color:#004AAD;">🚀 Nuestra misión</h2>
+
+<p align="center">
+  Ser una empresa 100% digital, dedicada a automatizar procesos internos y externos 
+  mediante herramientas informáticas de vanguardia, consolidándonos como aliados estratégicos 
+  en el crecimiento de nuestros clientes.
+</p>
 
 ---
 
-### 🧠 Áreas de especialización
+<h2 align="center" style="color:#004AAD;">🧠 Áreas de especialización</h2>
+
 - 💻 Desarrollo de aplicaciones móviles y multiplataforma  
 - 🔗 Integración con servicios web y APIs empresariales  
 - 📊 Análisis de datos y automatización de procesos  
@@ -34,7 +44,7 @@ Ser una empresa 100% digital, dedicada a automatizar procesos internos y externo
 
 ---
 
-### 💻 Clientes y proyectos destacados:
+<h2 align="center" style="color:#004AAD;">💻 Clientes y proyectos destacados</h2>
 
 | Cliente / Proyecto | Descripción | Tecnologías |
 |------------------|------------|-------------|
@@ -45,7 +55,7 @@ Ser una empresa 100% digital, dedicada a automatizar procesos internos y externo
 | Nyssen Proyectos | Distribución de información de clientes por razón social y carga de documentación | 💻 Angular, Node.js, MongoDB |
 | Corporativo Grijalva | Transporte de paquetería con control eficiente y seguro | 🚚 React, Node.js, SQL Server |
 | Biotel | Gestión de ventas, almacén y compras de productos de telecomunicaciones | 💻 Java, Spring Boot, MySQL |
-| Maderas San Pablo | Tienda enm línea para venta de madera, facturación y cobros | 🛒 Shopify, React, Node.js |
+| Maderas San Pablo | Tienda en línea para venta de madera, facturación y cobros | 🛒 Shopify, React, Node.js |
 | Vikatel | Administración de servicios de pintura electrostática | ⚙️ Laravel, MySQL, Vue.js |
 | Erletel | Administración de procesos de manufactura de metal | ⚙️ .NET, SQL Server, Blazor |
 
@@ -53,7 +63,7 @@ Ser una empresa 100% digital, dedicada a automatizar procesos internos y externo
 
 ---
 
-### 🤝 Colaboración y valores
+<h2 align="center" style="color:#004AAD;">🤝 Colaboración y valores</h2>
 
 En **ESDM Consulting** creemos que el éxito tecnológico nace del talento, la innovación y la integridad.  
 Nuestro compromiso con la calidad y la mejora continua nos impulsa a construir relaciones sólidas y resultados sostenibles.
@@ -69,9 +79,19 @@ Nos apasiona **convertir ideas en soluciones tecnológicas de alto impacto**, im
 
 ---
 
-📫 **Contáctanos:**  
-✉️ edgar@esdm.com.mx  
-🌐 [https://esdmproyectos.com/](https://esdmproyectos.com/)
+<h3 align="center" style="color:#004AAD;">📫 Contáctanos</h3>
+
+<p align="center">
+  ✉️ <a href="mailto:edgar@esdm.com.mx">edgar@esdm.com.mx</a>  
+  <br>
+  🌐 <a href="https://esdmproyectos.com/" target="_blank">https://esdmproyectos.com/</a>
+</p>
+
+---
+
+<p align="center" style="color:gray;">
+  Innovación | Eficiencia | Tecnología Inteligente
+</p>
 
 
 
