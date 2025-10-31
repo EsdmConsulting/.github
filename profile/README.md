@@ -3,12 +3,19 @@
 
 Somos una organización enfocada en el desarrollo de **soluciones tecnológicas inteligentes** que optimizan los procesos logísticos y administrativos, mediante desarrollos totalmente digitales y orientados a la eficiencia.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ESDMConsulting/.github/main/profile/esdm_logo_2.png" 
-       alt="ESDM Logo" 
-       width="75%" 
-       height="220"/>
-</p>
+<br>
+
+<div align="center">
+  <a href="https://github.com/ESDMConsulting?tab=projects" target="_blank">
+    <img src="https://img.shields.io/badge/Nuestros%20Clientes-004AAD?style=for-the-badge&logo=users&logoColor=white" alt="Nuestros Clientes"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ESDMConsulting?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositorios-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
+  </a>
+</div>
+
+<br>
 
 ---
 
