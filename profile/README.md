@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ESDMConsulting/.github/main/profile/esdm_logo_2.png" 
        alt="ESDM Logo" 
-       width="100%" 
-       height="250"/>
+       width="75%" 
+       height="200"/>
 </p>
 # 👋 Bienvenidos a **ESDM CONSULTING**
 
