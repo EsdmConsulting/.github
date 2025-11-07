@@ -59,7 +59,7 @@
 | Vikatel | Administración de servicios de pintura electrostática | ⚙️ Laravel, MySQL, Vue.js |
 | Erletel | Administración de procesos de manufactura de metal | ⚙️ .NET, SQL Server, Blazor |
 
-[🔗 Ver más proyectos](https://github.com/EsdmConsulting/.github/tree/main/profile/clientes)
+[🔗 Ver más proyectos](https://github.com/EsdmConsulting/.github/tree/main/profile/clientes/README.md)
 
 ---
 
