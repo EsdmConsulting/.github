@@ -29,10 +29,10 @@ A través de las soluciones desarrolladas por **ESDM Consulting**, la empresa di
 ## 💼 Soluciones y Sistemas Implementados
 
 ### 🖥️ **1. Página Web (Valtons 2)**
-> Plataforma informativa desarrollada en **WordPress**, que presenta todos los servicios, historia y contacto de la empresa.
+> Plataforma informativa desarrollada en **Java**, que presenta todos los servicios, historia y contacto de la empresa.
 
 🔗 **Repositorio:** [valtons2](https://github.com/ESDM-Consulting/valtons2)  
-🛠️ **Tecnología:** WordPress  
+🛠️ **Tecnología:** Java  
 🌐 **Función:** Sitio institucional y de presentación corporativa
 
 ---
@@ -83,7 +83,7 @@ A través de las soluciones desarrolladas por **ESDM Consulting**, la empresa di
 ## 🚀 Tecnologías Utilizadas
 
 <p align="center">
-  <strong>WordPress</strong> · <strong>PHP</strong> · <strong>JavaScript</strong> · <strong>SQL Server</strong> · <strong>HTML/CSS</strong> · <strong>Bootstrap</strong> · <strong>CONTPAQi API</strong>
+  <strong>Java</strong> · <strong>PHP</strong> · <strong>JavaScript</strong> · <strong>SQL Server</strong> · <strong>HTML/CSS</strong> · <strong>Bootstrap</strong> · <strong>CONTPAQi API</strong>
 </p>
 
 ---
