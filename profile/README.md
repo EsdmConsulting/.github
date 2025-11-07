@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/EsdmConsulting/.github/tree/main/profile/clientes" target="_blank">
+  <a href="https://github.com/EsdmConsulting/.github/tree/main/profile/clientes/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Nuestros%20Clientes-004AAD?style=for-the-badge&logo=users&logoColor=white" alt="Nuestros Clientes"/>
   </a>
   &nbsp;&nbsp;&nbsp;

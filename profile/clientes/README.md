@@ -24,7 +24,7 @@
 
 | Cliente / Proyecto | Descripción | Tecnologías |
 |------------------|-------------|--------------|
-| [**Valtons Group**](https://github.com/EsdmConsulting/.github/tree/main/profile/clientes/Valtons-Group) | Sistema logístico de transporte con monitoreo en tiempo real | 🚚 API REST, Android, SQL |
+| [**Valtons Group**](https://github.com/EsdmConsulting/.github/tree/main/profile/clientes/Valtons-Group/README.md) | Sistema logístico de transporte con monitoreo en tiempo real | 🚚 API REST, Android, SQL |
 | [**Luminik Spa**](https://github.com/Esdm-Consulting/.github/tree/main/profile/clientes/luminik) | Plataforma de gestión de spa con pagos, agenda digital y control de servicios | 💅 Flutter, Firebase, Stripe |
 | [**Costas y Alto de Chiapas**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/costas-chiapas) | Sistema de control de talones, guías y CCP 3.1 | 📦 PHP, MySQL, REST API |
 | [**Biotel**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/biotel) | Gestión integral de ventas, almacén y compras | 💻 Java, Spring Boot, MySQL |
