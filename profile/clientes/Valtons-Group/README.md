@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes" target="_blank">
+  <a href="https://github.com/EsdmConsulting/.github/tree/main/profile/clientes" target="_blank">
     <img src="https://img.shields.io/badge/⬅️%20Volver%20a%20Clientes-004AAD?style=for-the-badge&logo=replyd&logoColor=white" alt="Volver a Clientes"/>
   </a>
 </div>
@@ -40,7 +40,7 @@ A través de las soluciones desarrolladas por **ESDM Consulting**, la empresa di
 ### ⚙️ **2. Plataforma V2 (PlataformaValtons)**
 > Sistema web integral de administración interna, diseñado para el manejo de múltiples servicios empresariales.
 
-🔗 **Repositorio:** [PlataformaValtons](https://github.com/ESDM-Consulting/PlataformaValtons)  
+🔗 **Repositorio:** [PlataformaValtons](https://github.com/EsdmConsulting/PaginaWebValtonsGroup)  
 🧩 **Módulos incluidos:**
 - Control de inventarios  
 - Mantenimiento de unidades  
