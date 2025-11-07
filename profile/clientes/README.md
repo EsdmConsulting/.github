@@ -9,11 +9,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ESDM-Consulting/.github/tree/main/profile" target="_blank">
+  <a href="https://github.com/EsdmConsulting" target="_blank">
     <img src="https://img.shields.io/badge/🏠%20Volver%20al%20Inicio-004AAD?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Volver al Inicio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ESDMConsulting?tab=projects" target="_blank">
+  <a href="https://github.com/orgs/EsdmConsulting/repositories" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Proyectos-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyectos"/>
   </a>
 </div>
@@ -24,8 +24,8 @@
 
 | Cliente / Proyecto | Descripción | Tecnologías |
 |------------------|-------------|--------------|
-| [**Valtons Group**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/valtons-group) | Sistema logístico de transporte con monitoreo en tiempo real | 🚚 API REST, Android, SQL |
-| [**Luminik Spa**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/luminik) | Plataforma de gestión de spa con pagos, agenda digital y control de servicios | 💅 Flutter, Firebase, Stripe |
+| [**Valtons Group**](https://github.com/EsdmConsulting/.github/tree/main/profile/clientes/Valtons-Group) | Sistema logístico de transporte con monitoreo en tiempo real | 🚚 API REST, Android, SQL |
+| [**Luminik Spa**](https://github.com/Esdm-Consulting/.github/tree/main/profile/clientes/luminik) | Plataforma de gestión de spa con pagos, agenda digital y control de servicios | 💅 Flutter, Firebase, Stripe |
 | [**Costas y Alto de Chiapas**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/costas-chiapas) | Sistema de control de talones, guías y CCP 3.1 | 📦 PHP, MySQL, REST API |
 | [**Biotel**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/biotel) | Gestión integral de ventas, almacén y compras | 💻 Java, Spring Boot, MySQL |
 | [**Vikatel**](https://github.com/ESDM-Consulting/.github/tree/main/profile/clientes/vikatel) | Administración de procesos de pintura electrostática | ⚙️ Laravel, Vue.js, MySQL |
@@ -63,3 +63,4 @@
 <p align="center" style="color:gray;">
   Calidad | Compromiso | Innovación Tecnológica
 </p>
+
