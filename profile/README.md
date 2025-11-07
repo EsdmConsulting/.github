@@ -10,11 +10,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ESDMConsulting?tab=projects" target="_blank">
+  <a href="https://github.com/EsdmConsulting/.github/tree/main/profile/clientes" target="_blank">
     <img src="https://img.shields.io/badge/Nuestros%20Clientes-004AAD?style=for-the-badge&logo=users&logoColor=white" alt="Nuestros Clientes"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ESDMConsulting?tab=repositories" target="_blank">
+  <a href="https://github.com/orgs/EsdmConsulting/repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositorios-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
   </a>
 </div>
@@ -59,7 +59,7 @@
 | Vikatel | Administración de servicios de pintura electrostática | ⚙️ Laravel, MySQL, Vue.js |
 | Erletel | Administración de procesos de manufactura de metal | ⚙️ .NET, SQL Server, Blazor |
 
-[🔗 Ver más proyectos](https://github.com/ESDM-Consulting/proyectos)  
+[🔗 Ver más proyectos](https://github.com/EsdmConsulting/.github/tree/main/profile/clientes)
 
 ---
 
@@ -92,6 +92,5 @@ Nos apasiona **convertir ideas en soluciones tecnológicas de alto impacto**, im
 <p align="center" style="color:gray;">
   Innovación | Eficiencia | Tecnología Inteligente
 </p>
-
 
 
