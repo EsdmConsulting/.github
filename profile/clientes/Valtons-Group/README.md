@@ -31,7 +31,7 @@ A través de las soluciones desarrolladas por **ESDM Consulting**, la empresa di
 ### 🖥️ **1. Página Web (Valtons 2)**
 > Plataforma informativa desarrollada en **Java**, que presenta todos los servicios, historia y contacto de la empresa.
 
-🔗 **Repositorio:** [valtons2](https://github.com/ESDM-Consulting/valtons2)  
+🔗 **Repositorio:** [valtons2](https://github.com/EsdmConsulting/PaginaWebValtonsGroup)  
 🛠️ **Tecnología:** Java  
 🌐 **Función:** Sitio institucional y de presentación corporativa
 
